@@ -1,0 +1,12 @@
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\bin\Debug\net7.0\ModMath.ModNumber.deps.json
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\bin\Debug\net7.0\ModMath.ModNumber.dll
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\bin\Debug\net7.0\ModMath.ModNumber.pdb
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.csproj.AssemblyReference.cache
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.AssemblyInfo.cs
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.dll
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\refint\ModMath.ModNumber.dll
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ModMath.ModNumber.pdb
+C:\Users\Besitzer\Code\modmath\ModMath.ModNumber\obj\Debug\net7.0\ref\ModMath.ModNumber.dll

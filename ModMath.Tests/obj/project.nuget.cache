@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1D9gJQzonV4kBoxbKWXc0DQ9DsbkCEYvS/lC4s3QlcFHkoMAR37O+iZM08jaVtt26EHfD83OarYqkTPsHWwFOg==",
+  "dgSpecHash": "398CLcTufsiqiuCQrOSYflzqGLHjPl7e++TirktHRWZo3ZWuuaoNaNdOg7WKsf4vCa5gfExRtbraAqPGCFCrog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
+  "projectFilePath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Besitzer\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Besitzer\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

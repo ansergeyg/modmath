@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj": {}
+    "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj": {}
   },
   "projects": {
     "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj": {
+    "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
         "projectName": "ModMath.Tests",
-        "projectPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
+        "projectPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj",
         "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\obj\\",
+        "outputPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Besitzer\\AppData\\Roaming\\NuGet\\NuGet.Config"

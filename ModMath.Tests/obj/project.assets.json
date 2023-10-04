@@ -6154,8 +6154,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
-              "projectPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj"
+            "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
+              "projectPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj"
             }
           }
         }

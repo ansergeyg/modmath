@@ -4,14 +4,14 @@
     "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.Tests\\ModMath.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
+    "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj",
+        "projectUniqueName": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj",
         "projectName": "ModMath.ModNumber",
-        "projectPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj",
+        "projectPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj",
         "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\obj\\",
+        "outputPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Besitzer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
-                "projectPath": "c:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj"
+              "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj": {
+                "projectPath": "C:\\Users\\Besitzer\\Code\\modmath\\ModMath.ModNumber\\ModMath.ModNumber.csproj"
               }
             }
           }
